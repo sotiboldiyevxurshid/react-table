@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "name": "ed",
+      "text": "e",
+      "price": "29",
+      "amount": "29",
+      "image": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YnVyZ2VyfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "id": 1
+    },
+    {
+      "name": "salom",
+      "text": "olmaliq",
+      "price": "3",
+      "amount": "3",
+      "image": "https://storage.kun.uz/source/3/oluwAq9gzMc0oHFbx3LxE0QUi-vdzhYd.jpg",
+      "id": 2
+    }
+  ]
+}
